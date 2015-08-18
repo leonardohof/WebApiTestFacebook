@@ -8,8 +8,8 @@ namespace WebApiTest
 {
     public partial class Startup
     {
-        public const string FacebookAppId = "132414960151040";
-        public const string FacebookAppSecret = "644b791f140d413865779debcd7e9faf";
+        public const string FacebookAppId = "xxxx";
+        public const string FacebookAppSecret = "xxxx";
 
         public void ConfigureAuth(IAppBuilder app)
         {
